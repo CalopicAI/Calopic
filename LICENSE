@@ -1,0 +1,46 @@
+Calopic — Proprietary Software License
+Copyright (c) 2026 Elbirath. All rights reserved.
+
+Calopic is a proprietary commercial software product developed and owned by Elbirath.
+This product is NOT open source. No open-source license (MIT, Apache, GPL, AGPL, BSD, MPL, or any other) applies.
+
+1. Grant of License
+Subject to your compliance with this Agreement and any applicable terms of service or paid plan,
+Elbirath grants you a limited, non-exclusive, non-transferable, non-sublicensable license to download,
+install, and use the provided binary/build of Calopic solely for your authorized personal or internal business use.
+The Software is licensed, not sold. You acquire no ownership rights.
+
+2. Restrictions
+You shall not, and shall not permit any third party to:
+  (a) copy, modify, adapt, translate, or create derivative works of the Software;
+  (b) reverse engineer, decompile, disassemble, or attempt to derive any source code, models, prompts, agent logic, or internal structure;
+  (c) remove, obscure, or alter any copyright, trademark, or proprietary notices;
+  (d) redistribute, sublicense, rent, lease, sell, resell, white-label, or otherwise make the Software available to any third party;
+  (e) use the Software to build a competing product, or offer it as a hosted/managed service without prior written permission from Elbirath;
+  (f) use the Software to train, distill, or evaluate models for competing AI agent platforms.
+
+3. Ownership
+All rights, title, and interest in and to Calopic, including source code, object code, models, prompts,
+agent definitions, documentation, trademarks, and trade secrets, are and remain the exclusive property of Elbirath.
+
+4. Updates and Distribution
+Binaries, updates, and releases may be distributed publicly for download. Public distribution of binaries does not
+constitute a grant of source-code access or any open-source license. Source code is not provided.
+
+5. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, ELBIRATH SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE.
+
+7. Termination
+This license terminates automatically if you breach any term. Upon termination, you must stop using the Software
+and destroy all copies in your possession.
+
+8. Governing Law
+This Agreement is governed by the laws of the jurisdiction in which Elbirath is established,
+without regard to its conflict-of-law principles.
+
+By downloading, installing, or using Calopic, you agree to the terms above.
